@@ -20,8 +20,8 @@
   <img alt="Apache-2.0" src="https://img.shields.io/badge/license-Apache--2.0-3b82f6?style=flat-square" />
   <img alt="runs on Bun" src="https://img.shields.io/badge/runs%20on-Bun%201.4-fbf0df?style=flat-square&logo=bun&logoColor=black" />
   <img alt="0 npm dependencies" src="https://img.shields.io/badge/npm%20deps-0-22c55e?style=flat-square" />
-  <img alt="0 Python dependencies" src="https://img.shields.io/badge/python%20deps-0-22c55e?style=flat-square" />
-  <img alt="no build step" src="https://img.shields.io/badge/build%20step-none-22c55e?style=flat-square" />
+  <img alt="0 Python dependencies" src="https://img.shields.io/badge/pip%20deps-0-22c55e?style=flat-square" />
+  <img alt="no build step" src="https://img.shields.io/badge/build%20step-0-22c55e?style=flat-square" />
 </p>
 
 A full coding agent with chat, a terminal, 20 tools, memory, sub-agents and a live preview of whatever
